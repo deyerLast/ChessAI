@@ -1,6 +1,7 @@
 
 #David Meyer
-#Running the motor check
+
+#The arm is using DC motors with non-uniform power output; Inverse Kinematics can not be used here sadly.
 
 import time
 import sys
